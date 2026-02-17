@@ -1,13 +1,9 @@
 {
   "$schema": "http://json.schemastore.org/template",
   "author": "Imade",
-  "classifications": [ "Clean Architecture", "CQRS" ],
-  "identity": "Imade.CleanArchitecture.Template",
-  "name": "Imade Clean Architecture CQRS",
-  "shortName": "imade-clean",
-  "sourceName": "MyCleanArchitectureTemplate",
-  "tags": {
-    "language": "C#",
-    "type": "solution"
-  }
+  "classifications": [ "WebAPI", "CleanArchitecture", "CQRS" ],
+  "identity": "my-clean-arch-cqrs",
+  "name": "Clean Architecture + CQRS Template",
+  "shortName": "my-clean-arch-cqrs",
+  "sourceName": "MyCleanArchitectureTemplate"
 }
